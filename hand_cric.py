@@ -197,7 +197,7 @@ while True:
                            print("YOUR SCORE=",sc1,"SYSTEM'S SCORE",sc2)
                            print("SYSTEM WIN'S THE MATCH BY",sc2-sc1, "RUNS")
                        
-                        brea
+                        break
             else:
                 print("wrong input")
                 break
